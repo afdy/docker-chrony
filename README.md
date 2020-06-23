@@ -1,2 +1,2 @@
 # docker-chrony
-Chrony NTP server
+A small container hosting an NTP server.
